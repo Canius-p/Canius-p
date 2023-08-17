@@ -41,6 +41,5 @@
 <a href="https://www.instagram.com/canius_p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="canius" height="30" width="40" /></a>
 </p>
 
----
 [![](https://visitcount.itsvg.in/api?id=Canius-p&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 ---
