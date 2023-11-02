@@ -27,8 +27,7 @@
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜: </strong>
 </summary>
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=sristhilamichhane&&bg_color=0e0e0e&hide_border=true&include_all_commits=false&count_private=true) -->
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Canius-p&&bg_color=0e0e0e&hide_border=true)
 <br>
 
