@@ -93,7 +93,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Canius-p&&bg_color=0e0e0e&hide_border=true)
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Canius-p&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Canius-p&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 </details>
